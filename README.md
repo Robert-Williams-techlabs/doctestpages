@@ -2,6 +2,8 @@
   Gatsby Theme Carbon
 </h1>
 
+This demonstrates how to use mardown (.md), github, and Gatsby Carbon to build out sites. 
+
 The Gatsby Carbon theme includes all the configuration you need to build a beautiful site inspired by the [Carbon Design System](https://www.carbondesignsystem.com).
 
 ## Resources
